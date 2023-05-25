@@ -32,7 +32,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu
 - :telescope: Graduated from the MSTU named after N.E. Bauman in 2022. Became winners of 6 All-Russian Olympiads in Physics and Mathematics.
 - :man_teacher: I teach schoolchildren mathematics, physics and programming in Python.
 - :seedling: Started learning front-end development in July 2022.
-- :zap: In my free time, I solve problems on my pet-project and read tech articles.
+- :zap: In my free time, I solve problems on my pet-projects and read tech articles.
 
 - :angel: My dream is to join a strong team to work together on complex technical tasks.
 
