@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/k0lkl">
@@ -58,6 +58,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Derevynko&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Derevynko&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derevynko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
