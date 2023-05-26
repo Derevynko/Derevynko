@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/telegram-9cf?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/k0lkl?igshid=MzRlODBiNWFlZA==">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-FC0FC0?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 <div align="center" >
