@@ -2,14 +2,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY1MzkxYTQwY2U3YmZlNjQ3MTRlZjFhODFjMjFjYzRiMTk1NmJiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/meGpQMxGPC461ZD6Ad/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/maksim-derevianko-731496278/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://t.me/k0lkl">
     <img src="https://img.shields.io/badge/telegram-9cf?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/k0lkl?igshid=MzRlODBiNWFlZA==">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://vk.com/olegovichm">
-    <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center" >
